@@ -16,6 +16,10 @@ import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
 import com.alvin.leaderboardgads.R;
 import com.alvin.leaderboardgads.adapter.LearningLeadersRvAdapter;
+import com.alvin.leaderboardgads.model.LearningLeader;
+import com.alvin.leaderboardgads.viewmodel.LearningLeadersViewModel;
+
+import java.util.List;
 
 public class LearningLeadersFragment extends Fragment {
 

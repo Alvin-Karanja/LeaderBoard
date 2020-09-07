@@ -1,10 +1,11 @@
 package com.alvin.leaderboardgads;
 
 import android.content.Intent;
+import android.os.Handler;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import java.util.logging.Handler;
+//import java.util.logging.Handler;
 
 public class SplashActivity extends AppCompatActivity {
     @Override
