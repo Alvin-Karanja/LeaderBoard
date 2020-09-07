@@ -10,6 +10,9 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.alvin.leaderboardgads.R;
+import com.alvin.leaderboardgads.model.LearningLeader;
+
+import java.util.List;
 
 public class LearningLeadersRvAdapter extends RecyclerView.Adapter<LearningLeadersRvAdapter.ViewHolder> {
 
