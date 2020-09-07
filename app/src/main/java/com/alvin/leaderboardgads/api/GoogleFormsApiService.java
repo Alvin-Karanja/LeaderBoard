@@ -2,6 +2,8 @@ package com.alvin.leaderboardgads.api;
 
 import androidx.annotation.NonNull;
 
+import com.alvin.leaderboardgads.model.Submission;
+
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;

@@ -5,6 +5,9 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentActivity;
 import androidx.viewpager2.adapter.FragmentStateAdapter;
 
+import com.alvin.leaderboardgads.fragment.LearningLeadersFragment;
+import com.alvin.leaderboardgads.fragment.SkillLeadersFragment;
+
 public class MainPagerAdapter extends FragmentStateAdapter {
 
     public MainPagerAdapter(@NonNull FragmentActivity fragmentActivity) {

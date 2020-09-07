@@ -2,6 +2,14 @@ package com.alvin.leaderboardgads.api;
 
 import androidx.annotation.NonNull;
 
+import com.alvin.leaderboardgads.model.LearningLeader;
+import com.alvin.leaderboardgads.model.SkillLeader;
+
+import java.util.List;
+
+import retrofit2.Call;
+import retrofit2.Callback;
+import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 import retrofit2.http.GET;
